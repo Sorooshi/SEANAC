@@ -13,7 +13,7 @@ Also this algorithm can be run through the terminal by calling:
 
 
 For generating similar synthetic data sets, One should call "synthetic_data_generator.py" as 
-this is demonstrated in Jupyter notebook "Synthetic_data_generator.ipynb".
+this is demonstrated in Jupyter notebook "MediumSize_synthetic_data.ipynb".
 
 
 
