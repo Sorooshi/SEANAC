@@ -17,4 +17,19 @@ this is demonstrated in Jupyter notebook "MediumSize_synthetic_data.ipynb".
 
 
 
+If you use our code, please cite our following paper:
 
+BibTex:
+
+    @inproceedings{SEANAC_IDEAL,
+    title={A One-by-One Method for Community Detection in Attributed Networks},
+    author={S. Shalileh and B. Mirkin},
+    booktitle={International Conference on Intelligent Data Engineering and Automated Learning. Lecture Notes in Computer Science, vol 12490. },
+    pages={413--422},
+    year={2020},
+    address={Guimarães, Portugal}}
+    
+Or:
+
+
+Shalileh S. & Mirkin B. (2020) A One-by-One Method for Community Detection in Attributed Networks. In: Analide C., Novais P., Camacho D., Yin H. (eds) Intelligent Data Engineering and Automated Learning – IDEAL 2020. IDEAL 2020. Springer, Cham. 
