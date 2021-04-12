@@ -9,8 +9,10 @@ For more information on how to call our algorithm "SEANAC" one can
 refer to any the demo jupyter notebooks "clustering_results_Lawyers". 
 
 Also this algorithm can be run through the terminal by calling:
-  python SEANAC.py --Name="name of dataset" --PreProcessing="z-m" --Run=1 
+        
+        python SEANAC.py --Name="name of dataset in ../data" --PreProcessing="z-m" --Run=1 
 
+Note: data sets should be stored in data directory.
 
 For generating similar synthetic data sets, One should call "synthetic_data_generator.py" as 
 this is demonstrated in Jupyter notebook "MediumSize_synthetic_data.ipynb".
